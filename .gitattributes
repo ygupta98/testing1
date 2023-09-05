@@ -1,2 +1,2 @@
-testing merge=ours
+testing3 merge=ours
 --global merge.ours.driver true
